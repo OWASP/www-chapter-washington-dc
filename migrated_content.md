@@ -39,7 +39,7 @@ Welcome to the Home Page of the Washington DC OWASP Chapter.
 <!-- end list -->
 
   - You can also check out the archives of this page here
-    [Washington_DC Archives](Washington_DC_Archives "wikilink").
+    [Washington_DC Archives](Washington_DC_Archives ).
 
 # Meetings & Events
 
@@ -121,7 +121,7 @@ the DC Chapter, send an email to one of the chapter co-chairs or the
 # News & Recent Meetings
 
 Archives from earlier meetings than contained on this page can be found
-in the [Washington_DC Archives](Washington_DC_Archives "wikilink")
+in the [Washington_DC Archives](Washington_DC_Archives )
 
 **May 2014 Meeting**
 
@@ -974,7 +974,7 @@ teaching others to do the same.
   - **Mike Smith** of Deloitte spoke on SCAP and how it can relate to
     web application security.
   - **Doug Wilson** gave an update on [AppSecDC
-    2009](OWASP_AppSec_DC_2009 "wikilink")
+    2009](OWASP_AppSec_DC_2009 )
 
 About our speakers:
 
@@ -1040,7 +1040,7 @@ want it before then, please email doug.wilson AT owasp for a copy.
 
 Our big announcement of the meeting was that we are kicking off the
 [Call for Papers for AppSec DC
-2009](OWASP_AppSec_US_2009_-_Washington_DC "wikilink"), slated for
+2009](OWASP_AppSec_US_2009_-_Washington_DC ), slated for
 November 10-13 at the DC Convention Center.
 
 We'd also like to thank:
@@ -1146,7 +1146,7 @@ on Samurai, Yokoso\!, Laudanum, and Social butterfly demonstrated some
 of the great up and coming tools that are available to the community. As
 promised, I uploaded the PDF of the presentationto the Wiki, but the
 slides don't do the commentary justice. It can be found
-[here](https://www.owasp.org/index.php/Image:OWASP_DC_--_Web_Attack_Tools.pdf).
+[here](/www-pdf-archive/Image:OWASP_DC_--_Web_Attack_Tools.pdf).
 
 We also took care of some housekeeping stuff:
 
@@ -1262,6 +1262,6 @@ Refreshment Sponsor: Still Open\!
 
 
 
-[Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
-[Category:Washington, DC](Category:Washington,_DC "wikilink")
-[Category:Maryland](Category:Maryland "wikilink")
+[Category:OWASP Chapter](Category:OWASP_Chapter )
+[Category:Washington, DC](Category:Washington,_DC )
+[Category:Maryland](Category:Maryland )
