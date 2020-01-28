@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Washington Dc
+title: OWASP Washington DC
 tags: example-tag
 level: 0
 
