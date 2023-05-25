@@ -8,3 +8,8 @@
 ### Social Links
 * [Meetup](#)
 * [Social Link](#)-->
+
+### Code Repository
+* [Page Repo](https://github.com/OWASP/www-chapter-washington-dc)
+* [Slides Repo](https://github.com/OWASP/www-chapter-washington-dc/tree/master/assets/slides)
+* [Legacy Website](https://wiki.owasp.org/index.php/washington-dc)
