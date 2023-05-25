@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Washington DC
 tags: example-tag
 level: 0
-
+meetup-group: OWASP-Washington-DC-Chapter
 region: United States
 
 auto-migrated: 1
