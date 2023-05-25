@@ -1,5 +1,4 @@
-<!--### Washington DC Information
-* Chapter Region
+### Washington DC Information
 * [Become a Member](https://www.owasp.org/index.php/Membership)
 * [Join Our Mailing List](https://groups.google.com/a/owasp.org/forum/#!forum/washington-dc-chapter)
 * [Local Chapter Support](https://owasp.org/donate)
