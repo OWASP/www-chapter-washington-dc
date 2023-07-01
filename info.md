@@ -6,8 +6,8 @@
 * [Code of Conduct](https://owasp.org/www-policy/operational/conferences-events.html)
 
 ### Social Links
-* [Meetup](#)
-* [Social Link](#)-->
+* [Meetup](https://www.meetup.com/owasp-washington-dc-chapter/)
+* [Facebook](https://www.facebook.com/profile.php?id=100093843627804&mibextid=ZbWKwL)
 
 ### Code Repository
 * [Page Repo](https://github.com/OWASP/www-chapter-washington-dc)
