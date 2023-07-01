@@ -7,7 +7,34 @@ level: 0
 meetup-group: OWASP-Washington-DC-Chapter
 region: United States
 
-auto-migrated: 1
+---
+<!-- rebuild -->
+
+OWASP Washington-DC 
+-------------
+Welcome to the OWASP Washington-DC chapter homepage. The chapter board is <a href="mailto:elizabeth.leonard@owasp.org">Elizabeth Leonard</a>, <a href="mailto:leslie.mata@owasp.org">Leslie Mata</a>. 
+Follow chapter news on 
+[Facebook](https://www.facebook.com/profile.php?id=100093843627804) and on
+[Meetup.com](https://www.meetup.com/owasp-washington-dc-chapter/)
+
+Speaking at OWASP London Chapter Events
+---------------------------------------
+
+#### Call For Speakers
+
+Call For Speakers is open - if you would like to present a talk at future OWASP Washington-DC Chapter events - please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and submit your talk proposal here: [https://www.papercall.io/owasp-washington-dc](https://www.papercall.io/owasp-washington-dc)
+
+Next Meeting/Event(s)
+---------------------
+
+[//]: # (Comment: When updating the next event info also update the next event tab)
+
+
+OWASP Washington-DC Chapter meetings are posted on our MeetUp Page:
+
+Please visit <a href="https://www.meetup.com/owasp-washington-dc-chapter/">[http://www.meetup.com/OWASP-London](https://www.meetup.com/owasp-washington-dc-chapter/)</a> OWASP Washington-DC MeetUp site for Washington-DC Chapter event information.
+
+
 
 ---
 
