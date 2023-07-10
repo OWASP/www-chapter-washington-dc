@@ -25,7 +25,7 @@ Next Meeting/Event(s)
 
 OWASP Washington-DC Chapter meetings are posted on our MeetUp Page:
 
-Please visit <a href="https://www.meetup.com/owasp-washington-dc-chapter/">[http://www.meetup.com/OWASP-washington-dc-chapter](https://www.meetup.com/owasp-washington-dc-chapter/)</a> OWASP Washington-DC MeetUp site for Washington-DC Chapter event information.
+Please visit <a href="https://www.meetup.com/owasp-washington-dc-chapter/">[http://www.meetup.com/OWASP-washington-dc-chapter](https://www.meetup.com/owasp-washington-dc-chapter/)</a> for Washington-DC Chapter event information.
 
 
 
