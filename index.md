@@ -1,12 +1,5 @@
 ---
 
-layout: col-sidebar
-title: OWASP Washington DC
-tags: example-tag
-level: 0
-meetup-group: OWASP-Washington-DC-Chapter
-region: United States
-
 ---
 <!-- rebuild -->
 
@@ -17,7 +10,7 @@ Follow chapter news on
 [Facebook](https://www.facebook.com/profile.php?id=100093843627804) and on
 [Meetup.com](https://www.meetup.com/owasp-washington-dc-chapter/)
 
-Speaking at OWASP London Chapter Events
+Speaking at OWASP Washington-DC Chapter Events
 ---------------------------------------
 
 #### Call For Speakers
