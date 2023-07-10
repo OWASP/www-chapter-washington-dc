@@ -15,7 +15,7 @@ Speaking at OWASP Washington-DC Chapter Events
 
 #### Call For Speakers
 
-Call For Speakers is open - if you would like to present a talk at future OWASP Washington-DC Chapter events - please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and submit your talk proposal here: [https://www.papercall.io/owasp-washington-dc](https://www.papercall.io/owasp-washington-dc)
+Call For Speakers is open - if you would like to present a talk at future OWASP Washington-DC Chapter events - please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and express your interest through email here: [elizabeth.leonard@owasp.org](send email)
 
 Next Meeting/Event(s)
 ---------------------
