@@ -14,7 +14,8 @@ tags: OWASP Washington DC
 
 ## OWASP Washington-DC 
 -------------
-Welcome to the OWASP Washington-DC chapter homepage. The chapter board is <a href="mailto:elizabeth.leonard@owasp.org">Elizabeth Leonard</a>, <a href="mailto:leslie.mata@owasp.org">Leslie Mata</a>. 
+Welcome to the OWASP Washington-DC. Join our community as we work on improvingapplicationsecuritysnd privacy. We welcome your ideas and expertise. 
+Our leaders are <a href="mailto:elizabeth.leonard@owasp.org">Elizabeth Leonard</a>, <a href="mailto:leslie.mata@owasp.org">Leslie Mata</a>. 
 Follow chapter news on 
 [Facebook](https://www.facebook.com/profile.php?id=100093843627804) and on
 [Meetup.com](https://www.meetup.com/owasp-washington-dc-chapter/)
