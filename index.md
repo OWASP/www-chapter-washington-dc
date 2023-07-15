@@ -14,7 +14,7 @@ tags: OWASP Washington DC
 
 ## OWASP Washington-DC 
 -------------
-Welcome to the OWASP Washington-DC. Join our community as we work on improving applicationsecurity and privacy. We welcome your ideas and expertise. 
+Welcome to the OWASP Washington-DC. Join our community as we work on improving application security and privacy. We welcome your ideas and expertise. 
 Our leaders are <a href="mailto:elizabeth.leonard@owasp.org">Elizabeth Leonard</a>, <a href="mailto:leslie.mata@owasp.org">Leslie Mata</a>. 
 
 Follow chapter news on 
