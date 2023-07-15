@@ -1,9 +1,19 @@
 ---
+layout: col-sidebar
+title: OWASP Washington-DC 
+altfooter: true
+country: USA
+currency: usd
+level: 1
+meetup-group: OWASP-Washington DC
+region: North America
+site_side: true
+tags: chapter-Washington DC
 
 ---
 <!-- rebuild -->
 
-OWASP Washington-DC 
+## OWASP Washington-DC 
 -------------
 Welcome to the OWASP Washington-DC chapter homepage. The chapter board is <a href="mailto:elizabeth.leonard@owasp.org">Elizabeth Leonard</a>, <a href="mailto:leslie.mata@owasp.org">Leslie Mata</a>. 
 Follow chapter news on 
