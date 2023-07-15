@@ -1,16 +1,15 @@
 ---
 layout: col-sidebar
 title: OWASP Washington-DC 
-altfooter: true
 country: USA
 currency: usd
 level: 0
 meetup-group: OWASP-Washington DC
 region: North America
-tags: OWASP Washington DC
+tags: Washington DC
 
 ---
-<!-- rebuild -->
+
 
 ## OWASP Washington-DC 
 -------------
