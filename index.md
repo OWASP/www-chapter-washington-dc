@@ -4,11 +4,10 @@ title: OWASP Washington-DC
 altfooter: true
 country: USA
 currency: usd
-level: 1
+level: 0
 meetup-group: OWASP-Washington DC
 region: North America
-site_side: true
-tags: chapter-Washington DC
+tags: OWASP Washington DC
 
 ---
 <!-- rebuild -->
