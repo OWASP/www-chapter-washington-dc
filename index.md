@@ -19,7 +19,7 @@ Our leaders are <a href="mailto:elizabeth.leonard@owasp.org">Elizabeth Leonard</
 
 Follow chapter news on 
 [Facebook](https://www.facebook.com/profile.php?id=100093843627804) and on
-[Meetup.com](https://www.meetup.com/owasp-washington-dc-chapter/)
+[Meetup](https://www.meetup.com/owasp-washington-dc-chapter/)
 
 Speaking at OWASP Washington-DC Chapter Events
 ---------------------------------------
@@ -36,7 +36,7 @@ Next Meeting/Event(s)
 
 OWASP Washington-DC Chapter meetings are posted on our MeetUp Page:
 
-Please visit <a href="https://www.meetup.com/owasp-washington-dc-chapter/">[http://www.meetup.com/OWASP-washington-dc-chapter](https://www.meetup.com/owasp-washington-dc-chapter/)</a> for Washington-DC Chapter event information.
+Please visit <a href="https://www.meetup.com/owasp-washington-dc-chapter/">[Meetup](https://www.meetup.com/owasp-washington-dc-chapter/)</a> for Washington-DC Chapter event information.
 
 
 
