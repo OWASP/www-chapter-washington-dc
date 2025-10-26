@@ -1,0 +1,25 @@
+currency: USD
+leaders:
+  - name: Elizabeth Leonard
+    email: elizabeth.leonard@owasp.org
+    github: 1Xpert
+  - name: Leslie Mata
+    email: leslie.mata@owasp.org
+location:
+  country: United States
+  country_code: US
+  region: District of Columbia
+  city: D.C.
+  latitude: 38.8950368
+  longitude: -77.0365427
+meetup_group: OWASP-Washington DC
+name: OWASP Washington-DC
+repositories:
+  - name: www-chapter-washington-dc
+    url: https://github.com/OWASP/www-chapter-washington-dc
+    description: OWASP Foundation Web Repository
+tags:
+  - Washington
+  - DC
+  - custom-tag-1
+website: https://owasp.org/www-chapter-washington-dc
